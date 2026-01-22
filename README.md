@@ -1,9 +1,11 @@
-# Luiggy Alves 
-<ul>
-  <li>🎓 Computer Science student at the Federal University of Amazonas (UFAM)</li>
-  <li>👨‍💻 Interested in backend web development and machine learning</li>
-  <li>🟢 Currently studying Node.js, with a focus on <em>retrieval augmented generation</em> (RAG)</li>
-</ul>
+# 👨‍💻 Luiggy Alves 
+Computer science studente at the Federal University of Amazonas (UFAM)
+
+My name is Luiggy Augusto Lima Alves, I am 18 years old, and I am from Amazonas, Brazil. I am currently pursuing a Bachelor’s degree in Computer Science at the Federal University of Amazonas (UFAM).
+
+I am passionate about technology and innovation, with a strong interest in programming and building solutions that positively impact people and the community. While developing a solid foundation in Computer Science at university, I also study modern and relevant technologies independently.
+
+My goal is to become a well-rounded and highly skilled professional, capable of adapting to technological revolutions and effectively solving complex challenges.
 
 
 
