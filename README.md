@@ -6,23 +6,21 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 
 
 
-
 <table>
   <tr>
-    <td>
-      <a href="https://github.com/luiggyAlves/github-readme-stats">
-        <img
-          height="200"
-          src="https://github-readme-stats.vercel.app/api?username=luiggyAlves&show_icons=true&theme=holi"
-        />
-      </a>
-    </td>
-    <td>
+    <td valign="top">
       <img
         height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiggyAlves&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9"
+        src="https://github-readme-stats.vercel.app/api?username=luiggyAlves&show_icons=true&theme=holi&hide_border=true"
+      />
+    </td>
+    <td valign="top">
+      <img
+        height="200"
+        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiggyAlves&theme=holi&layout=compact&custom_title=Tecnologias&langs_count=9&hide_border=true"
       />
     </td>
   </tr>
 </table>
+
 
