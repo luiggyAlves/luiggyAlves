@@ -6,7 +6,7 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 
 
 
-<table>
+<table border=none>
   <tr border=none>
     <td valign="top">
       <img
