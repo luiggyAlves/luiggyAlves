@@ -5,7 +5,7 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 
 
 ### Languagens and technologies
-<div width = '100%>
+<div width = '100%'>
     <img 
     align="left" 
     alt="JavaScript" 
