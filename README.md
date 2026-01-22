@@ -1,9 +1,10 @@
 # Luiggy Alves 
 <ul>
-  <li>🎓 Estudante de ciência da computação na Universidade Federal do Amazonas (UFAM)</li>
-  <li>👨‍💻 Interessado em desenvolvimento web backend e aprendizado de máquina</li>
-  <li>🟢 Atualmente estudando Node.js, com foco em *retrieval argumented generation* (RAG)</li>
+  <li>🎓 Computer Science student at the Federal University of Amazonas (UFAM)</li>
+  <li>👨‍💻 Interested in backend web development and machine learning</li>
+  <li>🟢 Currently studying Node.js, with a focus on <em>retrieval augmented generation</em> (RAG)</li>
 </ul>
+
 
 
 
