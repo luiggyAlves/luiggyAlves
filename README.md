@@ -1,6 +1,10 @@
 # Luiggy Alves 
-## Estudante de ciência da computação na Universidade Federal do Amazonas (UFAM)
-## Interessado em desenvolvimento web backend e aprendizado de máquina
+<ul>
+  <li>Estudante de ciência da computação na Universidade Federal do Amazonas (UFAM)</li>
+  <li>Interessado em desenvolvimento web backend e aprendizado de máquina</li>
+</ul>
+
+
 
 
 
