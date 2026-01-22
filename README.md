@@ -9,3 +9,10 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 
 
 [![Luiggy's GitHub stats](https://github-readme-stats.vercel.app/api?username=luiggyAlves&show_icons=true&theme=holi)](https://github.com/luiggyAlves/github-readme-stats)
+
+<img 
+      align="left" 
+      alt="GitHub Stats" 
+      height="200" 
+      src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiggyAlves&theme=tokyonight&layout=compact&custom_title=Tecnologias&langs_count=9" 
+  />
