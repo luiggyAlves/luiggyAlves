@@ -1,4 +1,4 @@
-# 👨‍💻 Luiggy Alves 
+#  Luiggy Alves 
 
 **`Computer Science Undergraduate at the Federal University of Amazonas (UFAM)`**
 
