@@ -31,11 +31,14 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 -  **Backend Development with Node.js**
 
 ### Statistics
-<div align="center">
-  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiggyAlves&theme=dracula"/>
-</div>
 
-<div align="center">
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiggyAlves&theme=dracula"/>
-  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiggyAlves&theme=dracula"/>
-</div>
+<table width="100%">
+  <tr>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiggyAlves&theme=dracula" alt="Estatísticas do GitHub"/>
+    </td>
+    <td width="50%" align="center">
+      <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiggyAlves&theme=dracula" alt="Linguagens por Repositório"/>
+    </td>
+  </tr>
+</table>
