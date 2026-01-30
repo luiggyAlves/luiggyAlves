@@ -23,22 +23,10 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 
 
 
-### 📊 Statistics
+### 📚 Currently Studying
 
-<table>
-  <tr>
-    <td valign="top">
-      <img
-        height="200"
-        src="https://github-readme-stats.vercel.app/api?username=luiggyAlves&show_icons=true&theme=holi""
-      />
-    </td>
-    <td valign="top">
-      <img
-        height="200"
-        src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiggyAlves&theme=holi&layout=compact&custom_title=Technologies&langs_count=9""
-      />
-    </td>
-  </tr>
-</table>
+- 🤖 **Artificial Intelligence & Machine Learning**
+- 🔎 **Retrieval-Augmented Generation (RAG)**
+- 🧠 **Large Language Models (LLMs)**
+- ⚙️ **Backend Development with Node.js**
 
