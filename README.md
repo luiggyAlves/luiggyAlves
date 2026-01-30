@@ -32,6 +32,10 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 
 
 <div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=luiggyAlves&show_icons=true&theme=dark&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=luiggyAlves&layout=compact&langs_count=7&theme=dark"/>
+  <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiggyAlves&theme=dracula"/>
+</div>
+
+<div align="center">
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiggyAlves&theme=dracula"/>
+  <img height="180em" src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=luiggyAlves&theme=dracula"/>
 </div>
