@@ -30,17 +30,17 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 - **Large Language Models (LLMs)**
 -  **Backend Development with Node.js**
 
-### Statistics
+### 📊 Statistics
 
 <div align="center">
   <table>
     <tr>
-      <td width="63%" align="center">
-        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiggyAlves&theme=holi" alt="luiggyAlves' GitHub Stats"/>
+      <td width="48%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/stats?username=luiggyAlves&theme=holi" alt="luiggyAlves' GitHub Stats"/>
       </td>
-      <td width="2%"></td>
-      <td width="35%" align="center">
-        <img width="100%" src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiggyAlves&theme=holi" alt="Top Languages by Repo"/>
+      <td width="4%"></td>
+      <td width="48%" align="center">
+        <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=luiggyAlves&theme=holi" alt="Tecnologias"/>
       </td>
     </tr>
   </table>
