@@ -25,8 +25,8 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 
 ### 📚 Currently Studying
 
-- 🤖 **Artificial Intelligence & Machine Learning**
-- 🔎 **Retrieval-Augmented Generation (RAG)**
-- 🧠 **Large Language Models (LLMs)**
-- ⚙️ **Backend Development with Node.js**
+-  **Artificial Intelligence & Machine Learning**
+-  **Retrieval-Augmented Generation (RAG)**
+- **Large Language Models (LLMs)**
+-  **Backend Development with Node.js**
 
