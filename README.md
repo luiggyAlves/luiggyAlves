@@ -30,7 +30,7 @@ My name is Luiggy Augusto Lima Alves, an 18-year-old Computer Science undergradu
 - **Large Language Models (LLMs)**
 -  **Backend Development with Node.js**
 
-
+### Statistics
 <div align="center">
   <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=luiggyAlves&theme=dracula"/>
 </div>
