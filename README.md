@@ -10,14 +10,6 @@
 
 ###
 
-<h3 align="left">🧬 Aprendizado de representação química para identificação de compostos geroprotetores utilizando LLMs</h3>
-
-###
-
-<p align="left">Pesquisa de iniciação científica (PIBIC/CNPq) que usa LLMs químicos do tipo encoder (MolFormer-XL, ChemBERTa-2) e redes neurais de grafos para identificar compostos com potencial geroprotetor em produtos naturais da biodiversidade brasileira, tornando a descoberta de novos fármacos mais rápida e barata.</p>
-
-###
-
 <h3 align="left">🎣 <a href="https://github.com/luiggyAlves/REPOSITORIO-PHISHING" target="_blank">Finetuning de LLMs abertos para detecção explicável de phishing em e-mails em português</a></h3>
 
 ###
@@ -39,6 +31,14 @@
 ###
 
 <p align="left">Revisor de código seguro para Python que combina regras estáticas (Opengrep) com um agente de LLM para detectar vulnerabilidades, descartar falsos positivos e sugerir correções verificadas automaticamente. <i>(em desenvolvimento)</i></p>
+
+###
+
+<h3 align="left">🧬 Aprendizado de representação química para identificação de compostos geroprotetores utilizando LLMs</h3>
+
+###
+
+<p align="left">Pesquisa de iniciação científica (PIBIC/CNPq) que usa LLMs químicos do tipo encoder (MolFormer-XL, ChemBERTa-2) e redes neurais de grafos para identificar compostos com potencial geroprotetor em produtos naturais da biodiversidade brasileira, tornando a descoberta de novos fármacos mais rápida e barata.</p>
 
 ###
 
