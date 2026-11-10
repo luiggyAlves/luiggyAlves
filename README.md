@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛡️ <a href="https://github.com/luiggyAlves/CodeGuard" target="_blank">CodeGuard: revisão de código seguro com regras estáticas e agentes de LLM</a></h3>
+<h3 align="left">🛡️ <a href="https://github.com/luiggyAlves/CodeGuard" target="_blank">CodeGuard: detecção automática de vulnerabilidades em código fonte utilizando agentes de IA</a></h3>
 
 ###
 
