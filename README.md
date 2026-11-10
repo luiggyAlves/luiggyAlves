@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">Sou graduando em Ciência da Computação pelo Instituto de Computação da Universidade Federal do Amazonas (ICOMP/UFAM) e pesquisador de iniciação científica (PIBIC/CNPq) no Laboratório de Banco de Dados e Recuperação de Informação, sob orientação do Prof. Edleno Moura. Minha pesquisa aplica LLMs à química para identificar compostos geroprotetores na biodiversidade brasileira. Também atuei no GPEC, desenvolvendo um pipeline baseado em RAG para gerar questões automaticamente para a plataforma CodeBench. Meu foco é Machine Learning e Inteligência Artificial, com ênfase em Modelos de Linguagem de Grande Escala (LLMs): finetuning, agentes, RAG e avaliação rigorosa de modelos. Tenho interesse especial em aplicar esses conhecimentos a problemas reais de ciência e de cibersegurança.</p>
+<p align="left">Sou graduando em Ciência da Computação pelo Instituto de Computação da Universidade Federal do Amazonas (ICOMP/UFAM) e pesquisador (CNPQ) no Laboratório de Banco de Dados e Recuperação de Informação, sob orientação do Prof. Edleno Moura. Minha pesquisa aplica LLMs à química para identificar compostos geroprotetores na biodiversidade brasileira. Também atuei no GPEC, desenvolvendo um pipeline baseado em RAG para gerar questões automaticamente para a plataforma CodeBench. Meu foco é Machine Learning e Inteligência Artificial, com ênfase em Modelos de Linguagem de Grande Escala (LLMs): finetuning, agentes, RAG e avaliação rigorosa de modelos. Tenho interesse especial em aplicar esses conhecimentos a problemas reais de ciência e de cibersegurança.</p>
 
 ###
 
