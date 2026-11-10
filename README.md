@@ -15,7 +15,6 @@
 ###
 
 <p align="left">Projeto de iniciação científica (PIBIC/CNPq) no ICOMP/UFAM. Utiliza LLMs químicos do tipo encoder (MolFormer-XL, ChemBERTa-2) e redes neurais de grafos para aprender representações moleculares a partir de SMILES e SELFIES e identificar compostos com potencial geroprotetor, com foco em produtos naturais da biodiversidade brasileira (base NuBBE). Inclui a curadoria de bases de dados de longevidade (DrugAge), a geração de embeddings, o treino de classificadores com ensemble de votação ponderada e a avaliação de propriedades ADMET, tornando a descoberta de novos fármacos mais rápida e barata.</p>
-<a href="https://github.com/luiggyAlves/REPOSITORIO-PIBIC" target="_blank">🔗 Repositório do Projeto</a>
 
 ###
 
