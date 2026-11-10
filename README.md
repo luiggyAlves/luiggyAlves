@@ -10,7 +10,7 @@
 
 ###
 
-<h3 align="left">🎣 <a href="https://github.com/luiggyAlves/REPOSITORIO-PHISHING" target="_blank">Finetuning de LLMs abertos para detecção explicável de phishing em e-mails em português</a></h3>
+<h3 align="left"> <a href="https://github.com/luiggyAlves/REPOSITORIO-PHISHING" target="_blank">Finetuning de LLMs abertos para detecção explicável de phishing em e-mails em português</a></h3>
 
 ###
 
@@ -18,7 +18,7 @@
 
 ###
 
-<h3 align="left">🗣️ <a href="https://github.com/luiggyAlves/ComunicAI" target="_blank">ComunicAI: treinamento de comunicação com agentes de IA</a></h3>
+<h3 align="left"> <a href="https://github.com/luiggyAlves/ComunicAI" target="_blank">ComunicAI: treinamento de comunicação com agentes de IA</a></h3>
 
 ###
 
@@ -26,7 +26,7 @@
 
 ###
 
-<h3 align="left">🛡️ <a href="https://github.com/luiggyAlves/CodeGuard" target="_blank">CodeGuard: detecção automática de vulnerabilidades em código fonte utilizando agentes de IA</a></h3>
+<h3 align="left"> <a href="https://github.com/luiggyAlves/CodeGuard" target="_blank">CodeGuard: detecção automática de vulnerabilidades em código fonte utilizando agentes de IA</a></h3>
 
 ###
 
@@ -34,7 +34,7 @@
 
 ###
 
-<h3 align="left">🧬 Aprendizado de representação química para identificação de compostos geroprotetores utilizando LLMs</h3>
+<h3 align="left"> Aprendizado de representação química para identificação de compostos geroprotetores utilizando LLMs</h3>
 
 ###
 
